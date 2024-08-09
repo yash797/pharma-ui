@@ -5,5 +5,4 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('#signIn').addEventListener('click', function() {
         window.location.href = "signIn.html";
     });
-    
 });
